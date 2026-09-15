@@ -2,12 +2,12 @@
 
 **Name:** Abida Gul  
 **Email:** abidagul644@gmail.com  
-**Domain:** Web Development
+**Domain:** Frontend Development  
 
 ---
 
 ## Task 1: Image Gallery
-An interactive image gallery with filtering capabilities.
+An interactive and responsive image gallery with category filtering capabilities.
 
 🔗 **Live Demo:** https://abidagul560.github.io/Codealpha-Task-1-Image-Gallery/  
 🔗 **Source Code:** https://github.com/Abidagul560/Codealpha-Task-1-Image-Gallery
@@ -15,19 +15,20 @@ An interactive image gallery with filtering capabilities.
 ---
 
 ## Task 2: Calculator
-A modern calculator with dark/light mode toggle.
+A modern, fully functional calculator with dark/light mode toggle.
 
 🔗 **Live Demo:** https://abidagul560.github.io/Codealpha-task-2-Calculator/  
- **Source Code:** https://github.com/Abidagul560/Codealpha-task-2-Calculator
+🔗 **Source Code:** https://github.com/Abidagul560/Codealpha-task-2-Calculator
 
 ---
 
 ## Task 3: Music Player
-A responsive music player with play/pause functionality.
+A responsive and interactive music player with play/pause and track controls.
 
 🔗 **Live Demo:** https://abidagul560.github.io/Codealpha-task-3-Music-player-/  
- **Source Code:** https://github.com/Abidagul560/Codealpha-task-3-Music-player-
+🔗 **Source Code:** https://github.com/Abidagul560/Codealpha-task-3-Music-player-
 
 ---
 
-**All tasks completed successfully!** ✅
+**All tasks completed successfully!** ✅  
+*Thank you, CodeAlpha, for this amazing learning opportunity.*
